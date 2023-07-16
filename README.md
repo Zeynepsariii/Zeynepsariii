@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Future Android Developer 💪💪
+### .NET DEVELOPER 💪💪
 
 
 
