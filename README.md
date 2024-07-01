@@ -14,6 +14,7 @@
 
 
 ### My Skills🌵🌵🌵
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,mysql,django,docker,dotnet,linux,ubuntu,)](https://skillicons.dev)
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cs,cpp,mysql,kotlin)](https://skills.thijs.gg)
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,cs,cpp,mysql,kotlin)](https://skills.thijs.gg) -->
 
